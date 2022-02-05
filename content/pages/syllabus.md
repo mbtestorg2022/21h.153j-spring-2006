@@ -17,12 +17,57 @@ In this seminar we will examine various issues related to the intersection of ra
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 30% |
-| Final Project | 40% |
-| Oral Presentations | 10% |
-| Bibliography / Proposal | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bibliography / Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance
 ----------
@@ -39,22 +84,217 @@ No extensions are given except in cases of illness or family emergencies.
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction  {{< br >}}  {{< br >}}Film: _Slaying the Dragon_ | &nbsp; |
-| {{< td-colspan 3 >}}**I: Images and Counter-Images**{{< /td-colspan >}} |||
-| 2 | Early Immigration / Early Images | &nbsp; |
-| 3 | Early Asian American Cultural Criticism: Cultural Nationalism vs. Feminism | &nbsp; |
-| 4 | Early Asian American Cultural Criticism: Cultural Nationalism vs. Feminism (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**II: Contemporary Issues and Activism**{{< /td-colspan >}} |||
-| 5 | Between Black and White? | Choose groups for final project, brainstorm project ideas |
-| 6 | Global Capitalism and Labor Migration | Library workshop |
-| 7 | Asian American Activism: Feminist Issues / Queer Issues | &nbsp; |
-| 8 | Negotiating Gender Ideology in Diasporic Communities  {{< br >}}  {{< br >}}Film: _My Son the Fanatic_ | Project proposals and bibliographies due, proposal presentations  {{< br >}}  {{< br >}}Open workday for group projects |
-| 9 | Negotiating Gender Ideology in Diasporic Communities (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**III: Interracial Intimacy and Multiracial Identity**{{< /td-colspan >}} |||
-| 10 | Interracial Marriage - Historical Perspectives | Contributions to class archive due |
-| 11 | Contemporary Perspectives / Multiracial Issues  {{< br >}}  {{< br >}}Film: _Chasing Daybreak_ | Articles from class archive |
-| 12 | Multiracial Issues (cont.) | Student presentations |
-| 13 | Student Presentations | Student presentations (cont.)  {{< br >}}  {{< br >}}Open workday for group projects |
-| 14 | Conclusion | Final group projects due, class party
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+  
+Film: _Slaying the Dragon_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I: Images and Counter-Images**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Early Immigration / Early Images
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Early Asian American Cultural Criticism: Cultural Nationalism vs. Feminism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Early Asian American Cultural Criticism: Cultural Nationalism vs. Feminism (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II: Contemporary Issues and Activism**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Between Black and White?
+{{< tdclose >}}
+{{< tdopen >}}
+Choose groups for final project, brainstorm project ideas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Global Capitalism and Labor Migration
+{{< tdclose >}}
+{{< tdopen >}}
+Library workshop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Asian American Activism: Feminist Issues / Queer Issues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Negotiating Gender Ideology in Diasporic Communities  
+  
+Film: _My Son the Fanatic_
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposals and bibliographies due, proposal presentations  
+  
+Open workday for group projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Negotiating Gender Ideology in Diasporic Communities (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III: Interracial Intimacy and Multiracial Identity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Interracial Marriage - Historical Perspectives
+{{< tdclose >}}
+{{< tdopen >}}
+Contributions to class archive due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Contemporary Perspectives / Multiracial Issues  
+  
+Film: _Chasing Daybreak_
+{{< tdclose >}}
+{{< tdopen >}}
+Articles from class archive
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Multiracial Issues (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations (cont.)  
+  
+Open workday for group projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Final group projects due, class party
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
